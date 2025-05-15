@@ -2,7 +2,6 @@
 
 A simple note-taking web application built with **React.js**. Users can add, view, and delete notes. Notes are saved in the browser using `localStorage`.
 
----
 
 ##  Features
 
@@ -12,7 +11,6 @@ A simple note-taking web application built with **React.js**. Users can add, vie
 - Smooth add-button animation using Material UI.
 - Data are saved to browser `localStorage`.
 
----
 
 ##  Technologies Used
 
@@ -21,7 +19,6 @@ A simple note-taking web application built with **React.js**. Users can add, vie
 - JavaScript (ES6+)
 - HTML & CSS (custom styles)
 
----
 
 ##  Project Structure
 
@@ -43,34 +40,27 @@ keeper-app/
 `
 
 
----
-
 ##  How to Run the Project
 
 1. Clone the repository:
-`
-git clone https://github.com/your-username/keeper-app.git
-cd keeper-app
-`
+
+`git clone https://github.com/your-username/keeper-app.git
+cd keeper-app`
 
 2. Install dependencies:
-`
-npm install
-`
+
+`npm install`
 
 3. Start the development server:
-`
-npm start
-`
+
+`npm start`
 
 4. Visit `http://localhost:3000\` in your browser.
 
----
 
 ## UI Preview
 [App Preview](./public/Screenshot%20(555).png)
 
----
 
 ## License
 

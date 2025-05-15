@@ -25,7 +25,7 @@ A simple note-taking web application built with **React.js**. Users can add, vie
 
 ##  Project Structure
 
-\`\`\`
+`
 keeper-app/
 ├── public/
 │   └── index.html
@@ -40,29 +40,30 @@ keeper-app/
 │   └── styles.css
 ├── package.json
 └── README.md
-\`\`\`
+`
+
 
 ---
 
 ##  How to Run the Project
 
 1. Clone the repository:
-\`\`\`bash
+`
 git clone https://github.com/your-username/keeper-app.git
 cd keeper-app
-\`\`\`
+`
 
 2. Install dependencies:
-\`\`\`bash
+`
 npm install
-\`\`\`
+`
 
 3. Start the development server:
-\`\`\`bash
+`
 npm start
-\`\`\`
+`
 
-4. Visit \`http://localhost:3000\` in your browser.
+4. Visit `http://localhost:3000\` in your browser.
 
 ---
 

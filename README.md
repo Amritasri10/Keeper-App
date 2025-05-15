@@ -90,7 +90,6 @@ Ths project is licensed under the MIT License.
 
 ## 🙌 Author
 
-**Amrita Srivastava**  
 Connect with me on 
 [LinkedIn](https://www.linkedin.com/in/amrita-srivastava10/) | [GitHub](https://github.com/Amritasri10)
 

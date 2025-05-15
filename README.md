@@ -44,22 +44,23 @@ keeper-app/
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/keeper-app.git
-cd keeper-app`
+    `git clone https://github.com/your-username/keeper-app.git
+    cd keeper-app`
 
 2. Install dependencies:
 
-`npm install`
+    `npm install`
 
 3. Start the development server:
 
-`npm start`
+    `npm start`
 
-4. Visit `http://localhost:3000\` in your browser.
+4. Visit `http://localhost:3000` in your browser.
 
 
 ## UI Preview
-[App Preview](./public/Screenshot%20(555).png)
+
+![App Preview](/Screenshot%20(555).png)
 
 
 ## License

@@ -60,7 +60,7 @@ keeper-app/
 
 ## UI Preview
 
-![App Preview](/Screenshot%20(555).png)
+[App Preview](/Screenshot.png)
 
 
 ## License

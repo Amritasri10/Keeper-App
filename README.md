@@ -58,7 +58,7 @@ keeper-app/
 
 1. Clone the repository:
 
-    `git clone https://github.com/your-username/keeper-app.git
+    `git clone https://github.com/Amritasri10/keeper-app.git
     cd keeper-app`
 
 2. Install dependencies:
